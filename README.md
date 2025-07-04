@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact **The sun weighs 2,000 million million million million tons.**
 
-- 💻 My Portfolio → ms-matthew.github.io/portfolio
+- 💻 My Portfolio
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
