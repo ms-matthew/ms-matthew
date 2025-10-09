@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matthew</h1>
 <h3 align="center">A passionate, fast-learning, ambitious student from Poland.</h3>
 
-- 🌱 I’m currently learning **React+Vite, TailwindCSS, JSX**
+- 🌱 I’m currently learning **Python/AI (LLM)/ML**
 
 - 📫 How to reach me **mateusz.stachowicz1@wp.pl**
 
